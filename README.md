@@ -17,4 +17,4 @@ Hide watched videos on youtube (Google Chrome extension)
   
 After every change you have to click to update button on the extension at ```chrome://extensions/```
 
-![screenshot](https://raw.githubusercontent.com/gkshi/youtube-chrome-extension/main/images/instruction.png)
+![screenshot](https://raw.githubusercontent.com/gkshi/youtube-chrome-extention/main/images/instruction.png)
