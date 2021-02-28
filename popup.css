@@ -1,0 +1,15 @@
+.title {
+  margin: 0 0 10px;
+}
+
+.toggler {
+  width: 140px;
+}
+
+.enabled {
+  margin-top: 20px;
+}
+
+.powered {
+  margin-top: 30px;
+}
