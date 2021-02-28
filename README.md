@@ -1,10 +1,10 @@
-# youtube-chrome-extention
-Hide watched videos on youtube (Google Chrome extention)
+# youtube-chrome-extension
+Hide watched videos on youtube (Google Chrome extension)
 
 &nbsp;
   
 ### Installation
-[Download](#) (coming soon) official extention in Google Web Store
+[Download](#) (coming soon) official extension in Google Web Store
   
 &nbsp;
   
@@ -15,6 +15,6 @@ Hide watched videos on youtube (Google Chrome extention)
 3. Turn on "Developer mode" at top-right
 4. Click to "Load unpacked"
   
-After every change you have to click to update button on the extention at ```chrome://extensions/```
+After every change you have to click to update button on the extension at ```chrome://extensions/```
 
-![screenshot](https://raw.githubusercontent.com/gkshi/youtube-chrome-extention/main/images/instruction.png)
+![screenshot](https://raw.githubusercontent.com/gkshi/youtube-chrome-extension/main/images/instruction.png)
