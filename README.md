@@ -4,7 +4,7 @@ Hide watched videos on youtube (Google Chrome extension)
 &nbsp;
   
 ### Installation
-[Download](#) (coming soon) official extension in Google Web Store
+[Download](https://chrome.google.com/webstore/detail/cnibhadcgbichplollgpdnnhjbgflmej) official extension in Google Web Store
   
 &nbsp;
   
