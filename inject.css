@@ -1,0 +1,12 @@
+.-youtube-hide-watched-mode-hide {
+    display: none !important;
+}
+
+.-youtube-hide-watched-mode-opacity {
+    transition: opacity .2s ease;
+    opacity: .15 !important;
+}
+
+.-youtube-hide-watched-mode-opacity:hover {
+    opacity: .3 !important;
+}
